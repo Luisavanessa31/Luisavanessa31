@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luisa Vanessa Evangelista - Currículo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            text-align: center;
+            background-color: #007BFF;
+            color: white;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+
+        h2 {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Luisa Vanessa Uchôa Sousa Evangelista</h1>
+        <p>Jacarecanga, Fortaleza-Ce | (85)99743-5381 | luisavanessa27@gmail.com</p>
+        <p><a href="https://www.linkedin.com/in/luisavanessa/">LinkedIn</a></p>
+    </header>
+    <div class="section">
+        <h2>Objetivo</h2>
+        <p>Busco um estágio na área tecnológica para aplicar meus conhecimentos em desenvolvimento de sistemas e aprender com uma equipe qualificada.</p>
+    </div>
+    <div class="section">
+        <h2>Resumo Profissional</h2>
+        <p>Experiência em atendimento ao público, planejamento, e análise de desempenho. Paixão por tecnologia e foco em IA, nuvem e Python.</p>
+    </div>
+    <div class="section">
+        <h2>Educação</h2>
+        <p>GRADUAÇÃO EM ADMINISTRAÇÃO | 2010-2014 | ANHANGUERA UNIDERP</p>
+        <ul>
+            <li>Gestão de Negócios (Cursando)</li>
+            <li>Análise de Mercado</li>
+            <li>Excel Intermediário</li>
+            <li>Ferramentas de Captação de Clientes B2B</li>
+        </ul>
+        <p>GRADUAÇÃO EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS | 2023-2026 | FAMETRO</p>
+        <ul>
+            <li>Power BI (Cursando)</li>
+            <li>SQL (Cursando)</li>
+            <li>Python (Cursando)</li>
+            <li>HTML e CSS (Cursando)</li>
+            <li>Pacote Office (Concluído)</li>
+            <li>Power Point (Concluído)</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h2>Habilidades e Conhecimentos</h2>
+        <ul>
+            <li>Desenvolvimento Pessoal</li>
+            <li>Relações interpessoais</li>
+            <li>Formação de Equipes</li>
+            <li>Marketing Pessoal</li>
+            <li>Atendimento ao cliente</li>
+            <li>Negociação e Vendas</li>
+            <li>Comunicação e Expressão</li>
+            <li>Formação de Líderes</li>
+        </ul>
+        <p><strong>Experiência em criar e gerir projetos e equipes.</strong></p>
+        <p><strong>Vencedora do Hackathon do Crea Ce.</strong></p>
+        <p><strong>Especialização em IA, nuvem e Python.</strong></p>
+    </div>
+    <div class="section">
+        <h2>Experiência</h2>
+        <p><strong>CONSULTORA COMERCIAL | MULTINVEST | 2018-2019</strong></p>
+        <ul>
+            <li>Controle de processos administrativos</li>
+            <li>Gestão de documentos</li>
+            <li>Atendimento ao cliente</li>
+        </ul>
+        <p><strong>CONSULTORA COMERCIAL | FORTE SOL | 2019-2021</strong></p>
+        <ul>
+            <li>Prospecção e abordagem de novos clientes</li>
+            <li>Acompanhamento pós-venda</li>
+            <li>Identificação de oportunidades de mercado</li>
+        </ul>
+        <p><strong>CONSULTORA E ASSISTENTE| THEUS INVESTIMENTOS | 2021-2022</strong></p>
+        <ul>
+            <li>Prospecção e abordagem de clientes</li>
+            <li>Acompanhamento pós-venda</li>
+            <li>Identificação de novos segmentos</li>
+        </ul>
+    </div>
+</body>
+</html>
