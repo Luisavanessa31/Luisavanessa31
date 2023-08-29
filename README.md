@@ -12,7 +12,7 @@ Olá! Sou Luisa Vanessa👋
 - 🤝 Consultora de Negócios
 - 💻 Desenvolvedora Front-End e Designer UX
 
-Acesse o Link do meu Currículo HTML: https://htmlpreview.github.io/?https://github.com/Luisavanessa31/curriculopessoal/blob/main/curriculoindex.html
+--> Acesse o Link do meu Currículo HTML: https://htmlpreview.github.io/?https://github.com/Luisavanessa31/curriculopessoal/blob/main/curriculoindex.html
 
 <div>
 <a href-"https://beacons.ai/Luisavanessa31">
