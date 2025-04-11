@@ -4,10 +4,10 @@ Olá! Sou Luisa Vanessa, uma profissional apaixonada por tecnologia, inteligênc
 
 💡 Sobre mim
 - 🎓 Graduada em Administração | Estudante de Análise e Desenvolvimento de Sistemas  
-- 📊 Analista de Dados & Machine Learning | Especialista em **Power BI, SQL, Python e Modelos Preditivos  
+- 📊 Analista de Dados & Machine Learning | Especialista em Power BI, SQL, Python e Modelos Preditivos  
 - 💻 Desenvolvedora Python & React | Criação de aplicações escaláveis e inteligentes  
 - 🎨 UX Designer| Interfaces intuitivas e acessíveis para otimização da experiência do usuário  
-- 🤖 Especialista em IA & Automação | Aplicação de **Redes Neurais e Aprendizado de Máquina  
+- 🤖 Especialista em IA & Automação | Aplicação de Redes Neurais e Aprendizado de Máquina  
 - 🚀 Desenvolvedora de plataformas estratégicas e branding | Design de páginas empreendedoras e logotipos  
 - 💡 Interessada em Data Science, Big Data e NLP (Processamento de Linguagem Natural)  
 
