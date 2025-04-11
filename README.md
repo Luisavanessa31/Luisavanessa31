@@ -1,11 +1,6 @@
-
-<p align="center">  
-  <img src="https://media.discordapp.net/attachments/1064028865741197413/1118549668826193961/vivibeni_girl_in_the_street_yao_jia_in_the_style_of_romantic_so_dd0e903e-55cc-4d82-8d66-52dcc0f3b316_upscayl_4x_realesrgan-x4plus.png?width=436&height=580" alt="Imagem do Avatar">
-</p>
-
 # Bem-vindo(a) ao meu Perfil! 👩‍💻📊🎨🤖🚀  
 
-Olá! Sou **Luisa Vanessa**, uma profissional apaixonada por **tecnologia, inteligência artificial e ciência de dados**. Minha missão é desenvolver **soluções inovadoras e estratégicas**, combinando **machine learning, UX/UI design e desenvolvimento web** para transformar dados em insights valiosos!  
+Olá! Sou Luisa Vanessa, uma profissional apaixonada por tecnologia, inteligência artificial e ciência de dados. Minha missão é desenvolver soluções inovadoras e estratégicas, combinando machine learning, UX/UI design e desenvolvimento web para transformar dados em insights valiosos!  
 
 ## 💡 Sobre mim
 - 🎓 Graduada em Administração | Estudante de Análise e Desenvolvimento de Sistemas  
