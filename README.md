@@ -1,19 +1,19 @@
-# Bem-vindo(a) ao meu Perfil! 👩‍💻📊🎨🤖🚀  
+Bem-vindo(a) ao meu Perfil! 👩‍💻📊🎨🤖🚀  
 
 Olá! Sou Luisa Vanessa, uma profissional apaixonada por tecnologia, inteligência artificial e ciência de dados. Minha missão é desenvolver soluções inovadoras e estratégicas, combinando machine learning, UX/UI design e desenvolvimento web para transformar dados em insights valiosos!  
 
-## 💡 Sobre mim
+💡 Sobre mim
 - 🎓 Graduada em Administração | Estudante de Análise e Desenvolvimento de Sistemas  
-- 📊 **Analista de Dados & Machine Learning** | Especialista em **Power BI, SQL, Python e Modelos Preditivos**  
-- 💻 **Desenvolvedora Python & React** | Criação de aplicações escaláveis e inteligentes  
-- 🎨 **UX Designer** | Interfaces intuitivas e acessíveis para otimização da experiência do usuário  
-- 🤖 **Especialista em IA & Automação** | Aplicação de **Redes Neurais e Aprendizado de Máquina**  
-- 🚀 **Desenvolvedora de plataformas estratégicas e branding** | Design de páginas empreendedoras e logotipos  
-- 💡 Interessada em **Data Science, Big Data e NLP (Processamento de Linguagem Natural)**  
+- 📊 Analista de Dados & Machine Learning | Especialista em **Power BI, SQL, Python e Modelos Preditivos  
+- 💻 Desenvolvedora Python & React | Criação de aplicações escaláveis e inteligentes  
+- 🎨 UX Designer| Interfaces intuitivas e acessíveis para otimização da experiência do usuário  
+- 🤖 Especialista em IA & Automação | Aplicação de **Redes Neurais e Aprendizado de Máquina  
+- 🚀 Desenvolvedora de plataformas estratégicas e branding | Design de páginas empreendedoras e logotipos  
+- 💡 Interessada em Data Science, Big Data e NLP (Processamento de Linguagem Natural)  
 
 
 
-## 📈 Tecnologias e Ferramentas
+📈 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>  
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
@@ -31,7 +31,7 @@ Olá! Sou Luisa Vanessa, uma profissional apaixonada por tecnologia, inteligênc
 
 
 
-## 📌 GitHub Stats  
+📌 GitHub Stats  
 <div>  
   <a href="https://beacons.ai/Luisavanessa31">  
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisavanessa31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
@@ -42,14 +42,14 @@ Olá! Sou Luisa Vanessa, uma profissional apaixonada por tecnologia, inteligênc
 
 
 
-## 📌 Projetos e Portfólio**  
+📌 Projetos e Portfólio  
 🔗 Modelos Preditivos & Machine Learning | [GitHub](https://github.com/Luisavanessa31/Estudos-de-Dados-Demonstrativos)  
 🔗 Portfólio Profissional de UX & Design Estratégico | [Behance](https://www.behance.net/)  
 🔗 Automação de Processos com IA & NLP | [GitHub](https://github.com/)  
 
 
 
-## 🔗 Conecte-se comigo
+🔗 Conecte-se comigo
 <div>  
   <a href="https://www.youtube.com/@luisavanessaevangelista5157/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>  
   <a href="https://www.instagram.com/elilexlv2031/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
