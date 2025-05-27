@@ -11,6 +11,16 @@ Olá! Sou Luisa Vanessa, uma profissional apaixonada por tecnologia, inteligênc
 - 🚀 Desenvolvedora de plataformas estratégicas e branding | Design de páginas empreendedoras e logotipos  
 - 💡 Interessada em Data Science, Big Data e NLP (Processamento de Linguagem Natural)  
 
+## 💼 Experiências Recentes (2024 - 2025)
+
+- **Freelancer na Upwork:**  
+Atuação em projetos de análise de dados, frontend e automação de processos. Entregas com foco em soluções ágeis e personalizadas para clientes internacionais.
+
+- **Freelancer na Freelas99:**  
+Execução de projetos como analista de dados e desenvolvedora, com ênfase em dashboards, automação Python e desenvolvimento web.
+
+
+
 📈 Tecnologias e Ferramentas  
 
 <div style="display: inline_block"><br>  
@@ -24,6 +34,8 @@ Olá! Sou Luisa Vanessa, uma profissional apaixonada por tecnologia, inteligênc
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>  
+
+
 
 📊 Minhas Competências  
 
