@@ -37,7 +37,9 @@ Execução de projetos como analista de dados e desenvolvedora, com ênfase em d
 
 
 
+
 📊 Minhas Competências  
+
 
 **Linguagens de Programação:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)  
